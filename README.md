@@ -1,2 +1,1 @@
-# abdulkadir
-About Me
+# Hi There
