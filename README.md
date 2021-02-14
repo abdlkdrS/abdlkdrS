@@ -1,5 +1,5 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=abdlkdrS&show_icons=true">
 # Hi, There! I'm Abdulkadir.. :balloon:
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=abdlkdrS&show_icons=true">
 
 ## Contact With Me..
 <a href="https://www.linkedin.com/in/abdulkadir-soysal-963580147/" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-8.png" width="50" alt="Free Linkedin Logo Png Download Images" /></a>
